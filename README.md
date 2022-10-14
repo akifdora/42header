@@ -2,7 +2,7 @@
 Dosyayı indirdiğiniz için teşekkürler.<br>
 C projeleri için zorunlu olan header'ı bu doküman ve dosyalar yardımıyla kurabilirsiniz.<br>
 Hazırlayan ve Düzenleyen: Akif DORA<br>
-<br>
+
 # Kurulum Adımları
 1-) GitHub'da bulunan bu dosyaları bilgisayarınıza çekmek için sağ üst tarafta bulunan `Code` yazısına tıkladıktan sonra oradaki linki kopyalayın.<br>
 2-) iTerm2'yi açın<br>
