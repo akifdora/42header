@@ -1,6 +1,8 @@
 # 42header Kurulumu
 Dosyayı indirdiğiniz için teşekkürler.
+
 C projeleri için zorunlu olan header'ı bu doküman ve dosyalar yardımıyla kurabilirsiniz.
+
 Hazırlayan ve Düzenleyen: Akif DORA
 
 # Kurulum Adımları
