@@ -1,11 +1,11 @@
 let s:asciiart = [
-			\"         Created by      ",
-			\"            mdora        ",
-			\"       _________________ ",
-			\"      /  ____   ____   / ",
-			\"     /  /   /  /   /  /  ",
-			\"    /  /   /  /   /  /   ",
-			\"   /__/   /__/   /__/    "
+			\"        :::      ::::::::",
+			\"      :+:      :+:    :+:",
+			\"    +:+ +:+         +:+  ",
+			\"  +#+  +:+       +#+     ",
+			\"+#+#+#+#+#+   +#+        ",
+			\"     #+#    #+#          ",
+			\"    ###   ########.tr    "
 			\]
 
 let s:start		= '/*'
@@ -84,7 +84,7 @@ function! s:user()
 	endif
 	let l:user = $USER
 	if strlen(l:user) == 0
-		let l:user = "mdora"
+		let l:user = "kullaniciAdi"
 	endif
 	return l:user
 endfunction
@@ -95,7 +95,7 @@ function! s:mail()
 	endif
 	let l:mail = $MAIL
 	if strlen(l:mail) == 0
-		let l:mail = "mdora@student.42kocaeli.com.tr"
+		let l:mail = "kullaniciAdi@student.42kocaeli.com.tr"
 	endif
 	return l:mail
 endfunction
