@@ -23,4 +23,4 @@ Hazırlayan ve Düzenleyen: Akif DORA<br>
 ------------
 
 10-) İşlemi tamamladıktan sonra `:wq` komutu ile terminalden çıkın<br>
-11-) Yeni oluşturduğunuz dosyalara header'ınızı çekmek için `:Stdheader` yazıp enterlamalısınız.
+11-) Yeni oluşturduğunuz dosyalara header'ınızı çekmek için `:Baslik` yazıp enterlamalısınız.
