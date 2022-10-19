@@ -144,7 +144,7 @@ function! s:stdheader()
 endfunction
 
 " Bind command and shortcut
-command! Stdheader call s:stdheader ()
-map <F1> :Stdheader<CR>
+command! Baslik call s:stdheader ()
+map <F1> :Baslik<CR>
 autocmd BufWritePre * call s:update ()
 
