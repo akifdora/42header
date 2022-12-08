@@ -1,7 +1,7 @@
 # 42header Kurulumu
 C projeleri için zorunlu olan header'ı bu doküman ve dosyalar yardımıyla kurabilirsiniz.<br>
 Hazırlayan ve Düzenleyen: Akif DORA<br>
-```shell
+```vim
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
