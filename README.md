@@ -1,6 +1,19 @@
 # 42header Kurulumu
 C projeleri için zorunlu olan header'ı bu doküman ve dosyalar yardımıyla kurabilirsiniz.<br>
 Hazırlayan ve Düzenleyen: Akif DORA<br>
+```shell
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_strlen.c                                        :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: mdora <mdora@student.42kocaeli.com.tr>     +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/10/29 12:37:49 by mdora             #+#    #+#             */
+/*   Updated: 2022/10/29 12:44:20 by mdora            ###   ########.tr       */
+/*                                                                            */
+/* ************************************************************************** */
+```
 
 # Kurulum Adımları
 1-) GitHub'da bulunan bu dosyaları bilgisayarınıza çekmek için sağ üst tarafta bulunan `Code` yazısına tıkladıktan sonra oradaki linki kopyalayın.<br>
